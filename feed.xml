@@ -36,13 +36,6 @@ layout: null
 <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">
 {{ post.content | strip | xml_escape }}
 </content>
-{%- assign post_image = post.image.path | default: post.image -%}
-{%- if post_image -%}
-{%- unless post_image contains "://" -%}
-{%- assign post_image = post_image | absolute_url | xml_escape -%}
-{%- endunless -%}
-<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post_image }}" />
-{%- endif %}
 </entry>
 {% endfor %}
 
