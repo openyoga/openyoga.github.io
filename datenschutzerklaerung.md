@@ -12,5 +12,5 @@ Die [AGB für die Yogakurse können hier eingesehen werden][2].
 Mehr [über mich und Open Yoga MUC][3]
 
 [1]: /impressum
-[2]: /assets/legal/AGB
+[2]: /agb
 [3]: /about

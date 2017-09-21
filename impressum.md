@@ -22,5 +22,5 @@ Mehr [über mich und Open Yoga MUC][4].
 
 [1]: mailto:{{site.author.email}}
 [2]: /datenschutzerklaerung
-[3]: /assets/legal/AGB
+[3]: /agb
 [4]: /about
