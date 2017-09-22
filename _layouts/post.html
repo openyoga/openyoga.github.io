@@ -14,7 +14,7 @@ layout: default
 <!--content-end-->
 
         </div>
-        <footer class="post-meta">{% if page.last_modified %}Zuletzt geändert am {% include translated-date.html date=page.last_modified %} / {% endif %}Du kannst diesen Beitrag via <a href="mailto:{{ site.author.email }}?subject=Kommentar%20zu%20{{ site.url }}{{ site.baseurl }}{{ page.url }}">Email</a> kommentieren
+        <footer class="post-meta">{% if page.last_modified_at %}Zuletzt geändert am {% include translated-date.html date=page.last_modified_at %} / {% endif %}Du kannst diesen Beitrag via <a href="mailto:{{ site.author.email }}?subject=Kommentar%20zu%20{{ site.url }}{{ site.baseurl }}{{ page.url }}">Email</a> kommentieren
         </footer>
       {%- if site.disqus.shortname %}{% include disqus-comments.html %}{% endif %}
       </article>
