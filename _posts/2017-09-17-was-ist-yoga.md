@@ -3,7 +3,7 @@ title: Was ist Yoga?
 subtitle: Mehr als die Körperübungen
 tags: [yoga, hathayoga]
 lang: de
-last_modified_at: 2017-09-21
+last_modified_at: 2017-10-17
 ---
 
 ![Die Taube](/assets/images/taube.jpg)

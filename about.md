@@ -15,7 +15,9 @@ topic: 3
 
 2008 begann ich in einer beruflich stressigen Situation mit Hatha Yoga - es war Liebe auf den ersten Blick. Schon nach meiner ersten Stunde kaufte ich mir ein Yoga-Buch und begann auch zu Hause Asanas (Yogastellungen) und Sonnengrüße zu üben. Seitdem praktiziere ich fast täglich - Yoga tut mir einfach wahnsinnig gut. Natürlich mag ich auch andere Bewegungsformen, besonders Schwimmen, Radfahren, Nordic Walking und Bergwandern. Aber für eine kleine (oder größere ;-) Yoga-Session nehme ich mir immer Zeit.
 
-Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und begann die zweijährige Yogalehrer Ausbildung bei Yoga Vidya (BYV) mit 723 Unterrichtseinheiten. Weiterbildungen in Anatomie und Korrekturen, Rückenyoga und Yin Yoga/Faszientraining folgten. Ich genieße es sehr, Yoga an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Stunde in glückliche und entspannte Gesichter zu blicken.
+Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und begann die zweijährige Yogalehrer Ausbildung bei Yoga Vidya (BYV) mit 723 Unterrichtseinheiten. Ich bin auch Mitglied im [Berufsverband der Yoga Vidya Lehrer (BYV)][5], dem     Rückenyoga Berufsverband (BYV) und dem Yin Yoga Berufsverband (BYV).
+
+Weiterbildungen in Anatomie und Korrekturen, Rückenyoga und Yin Yoga/Faszientraining folgten. Ich genieße es sehr, Yoga an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Stunde in glückliche und entspannte Gesichter zu blicken.
 
 
 ## Website Technik
@@ -33,6 +35,7 @@ Knappertsbuschstraße 19
 [0]: /posts/2017-09-17-was-ist-yoga
 [1]: /kurse
 [2]: https://www.elastic.co/de/products/elasticsearch
+[5]: https://www.yoga-vidya.de/netzwerk/berufsverbaende/byv/byv-infos/
 [6]: https://ogobrecht.github.io
 [7]: https://jekyllrb.com
 [8]: https://github.com/openyoga/openyoga.github.io
