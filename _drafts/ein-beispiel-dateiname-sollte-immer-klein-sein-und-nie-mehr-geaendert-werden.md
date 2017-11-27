@@ -1,9 +1,10 @@
 ---
 title: Der Haupttitel
 subtitle: Der Untertitel mit einer eventuellen Erklärung, ist optional, Attribut subtitle sollte dann komplett gelöscht werden
+categories: []
 tags: []
 lang: de
-last_modified: 2017-08-29
+last_modified_at: 2017-08-29
 ---
 
 _Kursive Schrift mit einzelnen Unterstrichen_ *oder auch mit einzelnen Sternchen.* **Zwei Sternchen machen fett**, ***drei kursiv oder fett***, ___das ganze geht auch mit Unterstrichen___

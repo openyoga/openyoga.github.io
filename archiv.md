@@ -1,9 +1,13 @@
 ---
-title: Archiv
-lang: en
-topic: 4
+title: Artikel-Archiv
+sidebar: 3
+sidebar-title: Artikel
 ---
 
-![Das Rad](/assets/images/rad.jpg){:.w70}
+![Das Rad](/assets/images/rad-pano.jpg)
+
+## Liste der Tags (Schlagworte)
+
+{% include nav-list-tags-flat.html %}
 
 {% include post-list-by-year.html %}
