@@ -1,6 +1,6 @@
 ---
 title: Datenschutzerklärung
-sidebar-legal: 3
+sidebar-legal: 2
 ---
 
 Wir verwenden kein User Tracking. Diese Website wird auf GitHub gehostet. Auf deren Web Server Log Files haben wir keinen Zugriff.  

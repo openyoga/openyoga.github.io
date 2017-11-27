@@ -7,16 +7,16 @@ sidebar: 2
 ![Die Krähe](/assets/images/kraehe-pano.jpg){:.w70}
 
 {:#rueckenyoga}
-## Rückenyoga - Fr 19:30-21:00 Uhr
+## Rückenyoga - freitags 19:30-21:00 Uhr
 Rückenyoga ist für Anfänger und Yogis mit Vorkenntnissen geeignet. Egal ob Du Rückenbeschwerden hast oder präventiv etwas tun möchtest, in dieser Stunde kräftigen und dehnen wir Rücken- und Bauchmuskeln, tun aber auch etwas für den Schulter-Nacken-Bereich, die Hüften, die Beine und den Po.  
 **Kursbeginn am 26.01.2018 um 19:30 Uhr.**
 
 {:#yinyoga}
-## Yin Yoga / Faszienyoga - So 19:00-20:30 Uhr
+## Yin Yoga / Faszienyoga - sonntags 19:00-20:30 Uhr
 Yin Yoga ist eine wunderbare Art, den ganzen Körper zu dehnen und durch das längere Halten der Asanas (Übungen) in eine Art Körper-Meditation zu kommen. Eine sanfte, ruhige Stunde zur Regeneration, für Anfänger und Fortgeschrittene gleichermaßen geeignet.   **Kursbeginn am 28.01.2018 um 19:00 Uhr. Kein Unterricht am 11.02.2018**
 
 {:#sportleryoga}
-## Yoga für Sportler - Mi 20:00-21:30 Uhr
+## Yoga für Sportler - mittwochs 20:00-21:30 Uhr
 Sportler Yoga ist für geübte Yogis und sportliche Yoga-Anfänger geeignet, die sich gerne ein wenig fordern möchten. Nach einer angenehm anstrengenden Stunde gönnen wir uns auch hier, wie in den anderen Kursen, eine Tiefenentspannung zum Ausklang.  
 **Kursbeginn am 31.01.2018 um 20:00 Uhr.**
 

@@ -1,7 +1,7 @@
 ---
 title: Impressum nach dem Telemediengesetz (TMG)
 sidebar-title: Impressum
-sidebar-legal: 2
+sidebar-legal: 1
 ---
 
 **openyoga.github.io wird betrieben von:**

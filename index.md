@@ -19,7 +19,7 @@ sidebar-title: Startseite
 
 {% include post-list-by-limit.html limit=5 %}
 
-{% include translation text='more_in_the' %} [{% include translation text='archive' %}]({{site.baseurl}}/archiv), {% include translation text='subscribe_via' %} [RSS]({{site.baseurl}}/feed.xml)
+{% include translation text='more_in_the' %} [{% include translation text='archive' %}]({{site.baseurl}}/artikel-archiv), {% include translation text='subscribe_via' %} [RSS]({{site.baseurl}}/feed.xml)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Allgemeine Geschäftsbedingungen Open Yoga MUC
 sidebar-title: AGB
-sidebar-legal: 1
+sidebar-legal: 3
 ---
 
 ## 1. Allgemein
