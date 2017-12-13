@@ -9,7 +9,7 @@ sidebar-title: Startseite
 - [Rückenyogakurs][1] freitags 19:30 bis 21:00 Uhr
 - [Yin Yoga / Faszienyoga Kurs][2] sonntags 19:00 bis 20:30 Uhr
 - [Sportler Yoga Kurs][3] mittwochs 20:00 bis 21:30 Uhr
-- [Veranstaltungsort der Kurse][5]
+- [Veranstaltungsort der Kurse, Preise][5]
 - [Personal Training / Einzelstunden][4] jederzeit und örtlich flexibel
 
 

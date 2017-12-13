@@ -10,18 +10,18 @@ sidebar: 4
 
 ## Über mich
 
-![Portraitfoto Ajita Alexandra Gobrecht](/assets/avatar-portrait.jpg "Ajita Alexandra Gobrecht"){:.left.avatar} Ich selbst arbeite im IT-Bereich (Suchtechnologie und Datenmanagement) und liebe Open Source Software (z.B. [Elasticsearch][2]). Zum Glück ist Yoga ja mittlerweile auch Open Source, d.h für jeden zugänglich, der Interesse daran hat (im alten Indien  war Yoga tatsächlich eine Geheimlehre, die nur vom Guru an geeignete Schüler weitergegeben wurde). Auf dieser Website findest Du neben unserem Kursangebot auch Infos rund um Yoga, leckere Rezepte und vieles mehr. Open Source Texte eben.
+![Portraitfoto Ajita Alexandra Gobrecht](/assets/avatar-portrait.jpg "Ajita Alexandra Gobrecht"){:.left.avatar} Ich selbst arbeite im IT-Bereich (Suchtechnologie und Datenmanagement) und liebe Open Source Software (z.B. [Elasticsearch][2]{:target="\_blank"}). Zum Glück ist Yoga ja mittlerweile auch Open Source, d.h für jeden zugänglich, der Interesse daran hat (im alten Indien  war Yoga tatsächlich eine Geheimlehre, die nur vom Guru an geeignete Schüler weitergegeben wurde). Auf dieser Website findest Du neben unserem Kursangebot auch Infos rund um Yoga, leckere Rezepte und vieles mehr. Open Source Texte eben.
 
 2008 begann ich in einer beruflich stressigen Situation mit Hatha Yoga - es war Liebe auf den ersten Blick. Schon nach meiner ersten Stunde kaufte ich mir ein Yoga-Buch und begann auch zu Hause Asanas (Yogastellungen) und Sonnengrüße zu üben. Seitdem praktiziere ich fast täglich - Yoga tut mir einfach wahnsinnig gut. Natürlich mag ich auch andere Bewegungsformen, besonders Schwimmen, Radfahren, Nordic Walking und Bergwandern. Aber für eine kleine (oder größere ;-) Yoga-Session nehme ich mir immer Zeit.
 
-Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und begann die zweijährige Yogalehrer Ausbildung bei Yoga Vidya (BYV) mit 723 Unterrichtseinheiten. Ich bin auch Mitglied im [Berufsverband der Yoga Vidya Lehrer (BYV)][5], dem     Rückenyoga Berufsverband (BYV) und dem Yin Yoga Berufsverband (BYV).
+Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und begann die zweijährige Yogalehrer Ausbildung bei Yoga Vidya (BYV) mit 723 Unterrichtseinheiten. Ich bin auch Mitglied im [Berufsverband der Yoga Vidya Lehrer (BYV)][5]{:target="\_blank"}, dem     Rückenyoga Berufsverband (BYV) und dem Yin Yoga Berufsverband (BYV).
 
 Weiterbildungen in Anatomie und Korrekturen, Rückenyoga und Yin Yoga/Faszientraining folgten. Ich genieße es sehr, Yoga an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Stunde in glückliche und entspannte Gesichter zu blicken.
 
 
 ## Website Technik
 
-Diese Website hat mein Mann [Ottmar][6] mit [Jekyll][7], einem statischen Site Generator entwickelt. Den Quellcode könnt Ihr [hier bei GitHub anschauen][8].
+Diese Website hat mein Mann [Ottmar][6]{:target="\_blank"} mit [Jekyll][7]{:target="\_blank"}, einem statischen Site Generator entwickelt. Den Quellcode könnt Ihr [hier bei GitHub anschauen][8]{:target="\_blank"}.
 
 
 ## Kontakt
