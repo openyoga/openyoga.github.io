@@ -4,7 +4,7 @@ sidebar: 0
 sidebar-title: Startseite
 ---
 
-## Kurse (10 x ab Ende Janaur)
+## Kurse (10 x ab Ende Januar)
 - [Yoga für Anfänger Kurs][1] - freitags 19:30-21:00 Uhr oder mittwochs 20:00-21:30 Uhr
 - [Rückenyogakurs][2] freitags 19:30 bis 21:00 Uhr
 - [Yin Yoga / Faszienyoga Kurs][3] sonntags 19:00 bis 20:30 Uhr
