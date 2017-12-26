@@ -1,6 +1,6 @@
 ---
 title: About
-sidebar: 4
+sidebar: 5
 ---
 
 ## Über Open Yoga MUC

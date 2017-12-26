@@ -5,7 +5,7 @@ tags: [yoga, hathayoga, wirkung, gesundheit]
 lang: de
 ---
 
-![Der Taenzer](/assets/images/taenzer-pano.jpg)
+![Der Taenzer](/assets/images/taenzer.jpg)
 
 Zugegeben, von selbst wäre ich nie auf die Idee gekommen, Yoga auszuprobieren. Ich habe mich schon immer für alle möglichen Sportarten begeistern können, war viel und lange joggen, schwimmen, radfahren; als Kind habe ich Judo gemacht, bin Kajak und Kanu gefahren, habe Tennis und Volleyball gespielt. Ich habe mich immer gut gefühlt, wenn ich mich beim Sport so richtig auspowern konnte.\\
 In einer beruflich sehr stressigen Situation vor knapp zehn Jahren, die ich selbst gar nicht so richtig einordnen konnte, als ich mehr als am Rande meiner Kräfte angelangt war, verordnete mir meine Hausärztin drei Wochen Zwangspause. Und sagte noch zu mir: Aber nutzen Sie die Zeit für etwas Positives. Etwas Positives? Weswegen bin ich eigentlich krank geschrieben? Ich muss dringend mein Suchmaschinenprojekt abschließen!!!\\

@@ -1,10 +1,10 @@
 ---
 title: Artikel-Archiv
-sidebar: 3
+sidebar: 4
 sidebar-title: Artikel
 ---
 
-![Das Rad](/assets/images/rad-pano.jpg)
+![Das Rad](/assets/images/rad.jpg)
 
 
 ## Liste der Tags (Schlagworte)

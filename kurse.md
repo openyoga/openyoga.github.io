@@ -1,10 +1,15 @@
 ---
-title: Kurse in Kleingruppen in München Bogenhausen
+title: Yoga Kurse in München Bogenhausen
 sidebar-title: Kurse
 sidebar: 2
 ---
 
-![Die Krähe](/assets/images/kraehe-pano.jpg){:.w70}
+![Die Krähe](/assets/images/kraehe.jpg){:.w70}
+
+{:#anfaengeryoga}
+## Yoga für Anfänger - freitags 19:30-21:00 Uhr oder mittwochs 20:00-21:30 Uhr
+Lerne Yoga von Grund auf und probiere aus, wie diese integrale Praxis aus Muskelkräftigung, Dehnung und Entspannung bei Dir wirkt. Wir erlernen nach und nach die wichtigsten Yogaübungen und achten hier besonders auf ihre korrekte Ausführung und Anpassung an Deine Bedürfnisse.  
+**Kursbeginn am 26.01.2018 bzw. 31.01.2017.**
 
 {:#rueckenyoga}
 ## Rückenyoga - freitags 19:30-21:00 Uhr
