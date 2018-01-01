@@ -25,7 +25,7 @@ In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, t
 
 
 ## Konditionen
-Die Preise liegen bei 20 € für 120 Minuten Workshop und 30 € für 180 Minunten. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab drei angemeldeten Teilnehmern statt.  **Terminanfragen bitte per Mail an: [{{site.data.authors.agobrecht.email}}][1]**
+Die Preise liegen bei 20 € für 120 Minuten Workshop und 30 € für 180 Minuten. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab drei angemeldeten Teilnehmern statt.  **Terminanfragen bitte per Mail an: [{{site.data.authors.agobrecht.email}}][1]**
 
 ## Veranstaltungsort
 Die Workshops finden in den schönen Räumlichkeiten der [Familienpraxis Dr. Gold][2] in der Freischützstraße 9 in 81927 München (Bogenhausen) statt. Anfahrt: S8 bis Englschalking, dann 5 Min. Fußweg. Oder U4 bis Arabellapark und weiter bis Englschalkinger Straße mit den Buslinien 154, 183 oder 184.

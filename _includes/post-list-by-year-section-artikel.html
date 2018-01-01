@@ -1,0 +1,22 @@
+{%- assign posts = site.posts | where:"section","artikel" -%}
+{%- for post in posts %}
+  {%- assign currentdate = post.date | date: "%Y" -%}
+  {%- if currentdate != date %}
+    {%- unless forloop.first %}
+</ul>
+    {%- endunless %}
+<h2 id="year-{{post.date | date: "%Y"}}">{{ currentdate }}</h2>
+<ul class="post-list-archive">
+    {%- assign date = currentdate -%}
+  {%- endif %}
+<li>
+  <span class="post-meta">{% include translated-date date=post.date %}{% if site.show_lang_in_post_listings == true %} ({{ post.lang }}){% endif %}</span><br>
+  <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
+  {%- if post.subtitle %}
+  <br><span class="post-meta">{{ post.subtitle }}</span>
+  {%- endif %}
+</li>
+  {%- if forloop.last %}
+</ul>
+  {%- endif %}
+{%- endfor %}

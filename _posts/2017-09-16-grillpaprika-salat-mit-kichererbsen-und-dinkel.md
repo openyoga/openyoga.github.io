@@ -1,6 +1,7 @@
 ---
 title: Grillpaprika-Salat mit Kichererbsen und Dinkel
 subtitle: Ottmars Lieblingsrezept
+section: rezepte
 tags: [rezept, salat]
 lang: de
 ---

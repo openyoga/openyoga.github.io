@@ -1,6 +1,7 @@
 ---
 title: Tabouleh mit Quinoa
 subtitle: Tabouleh mal ganz anders
+section: rezepte
 tags: [rezept, salat]
 lang: de
 ---

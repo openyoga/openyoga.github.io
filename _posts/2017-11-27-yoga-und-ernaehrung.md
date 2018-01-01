@@ -1,6 +1,7 @@
 ---
 title: Yoga und Ernährung
 subtitle: Muss ich Vegetarier oder gar Veganer sein, wenn ich Yoga mache?
+section: artikel
 tags: [yoga, ernaehrung, vegetarier, veganer, gunas, gesundheit]
 lang: de
 last_modified_at: 2017-12-10

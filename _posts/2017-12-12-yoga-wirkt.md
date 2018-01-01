@@ -1,6 +1,7 @@
 ---
 title: Yoga wirkt
 subtitle: Ich und Yoga?
+section: artikel
 tags: [yoga, hathayoga, wirkung, gesundheit]
 lang: de
 ---

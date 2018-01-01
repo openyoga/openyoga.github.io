@@ -72,4 +72,17 @@
         float: none;
         width: 100%;
     }
+    body {
+        color: black;
+        background-color: white;
+    }
+    a {
+        color: $grey-color;
+    }
+    a:before {
+        content: "[";
+    }
+    a:after {
+        content: "](" attr(href) ")";
+    }
 }
