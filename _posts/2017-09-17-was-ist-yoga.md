@@ -30,4 +30,4 @@ Yoga ist keine Religion und kein Dogma. Es ist offen für [alle Menschen][2]. Yo
 Es gibt im Yoga quasi nichts zu erreichen, und gerade das fällt uns Menschen im Westen oft so schwer. Im Yoga darfst Du genau so sein, wie Du jetzt gerade bist. Du hörst auf zu bewerten und beginnst einfach nur zu sein ...
 
 [1]: /posts/2017-11-27-yoga-und-ernaehrung
-[2]: /posts/2017-12-31-yoga-zielgruppen
+[2]: /posts/2018-01-01-yoga-zielgruppen
