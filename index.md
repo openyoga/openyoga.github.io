@@ -4,16 +4,9 @@ sidebar: 0
 sidebar-title: Startseite
 ---
 
-## Kurse (10 x ab Ende Januar)
-- [Yoga für Anfänger Kurs][1] - freitags 19:30-21:00 Uhr oder mittwochs 20:00-21:30 Uhr
-- [Rückenyogakurs][2] freitags 19:30 bis 21:00 Uhr
-- [Yin Yoga / Faszienyoga Kurs][3] sonntags 19:00 bis 20:30 Uhr
-- [Sportler Yoga Kurs][4] mittwochs 20:00 bis 21:30 Uhr
-
-## Workshops (einmalig samstags oder sonntags)
-- [Yoga für Anfänger][5]
-- [Rückenyoga][6]
-- [Yin Yoga / Faszienyoga][7]
+## Workshops
+- [Yoga für Anfänger][5] mit Elementen aus dem [Rückenyoga:][6] <br/>Freitag, 26.1. 19:30 bis 21:30 Uhr
+- [Yin Yoga / Faszienyoga:][7] <br/> Sonntag, 28.1. 19:00 bis 21:00 Uhr
 
 
 ## Das Wo und Wie
