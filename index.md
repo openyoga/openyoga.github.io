@@ -5,8 +5,8 @@ sidebar-title: Startseite
 ---
 
 ## Workshops
-- [Yoga für Anfänger][5] mit Elementen aus dem [Rückenyoga:][6] <br/>Freitag, 26.1. 19:30 bis 21:30 Uhr
 - [Yin Yoga / Faszienyoga:][7] <br/> Sonntag, 28.1. 19:00 bis 21:00 Uhr
+- [Yoga für Anfänger][5] mit Elementen aus dem [Rückenyoga:][6] <br/>Freitag, 2.2. 19:30 bis 21:30 Uhr
 
 
 ## Das Wo und Wie
