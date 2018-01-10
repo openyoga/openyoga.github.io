@@ -23,7 +23,7 @@ In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, t
 {:#yinyogaworkshop}
 ## Yin Yoga / Faszienyoga
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
-**Sonntag, 28.1. 19:00 - 21:00 Uhr. Anmeldung per Mail: [{{site.data.authors.agobrecht.email}}][1]**
+**Sonntag, 4.2. 19:00 - 21:00 Uhr. Anmeldung per Mail: [{{site.data.authors.agobrecht.email}}][1]**
 
 ## Konditionen
 Die Preise liegen bei 20 € für 120 Minuten Workshop und 30 € für 180 Minuten. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt.  **Anfragen bitte per Mail an: [{{site.data.authors.agobrecht.email}}][1]**
