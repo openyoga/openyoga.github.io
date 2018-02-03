@@ -11,19 +11,19 @@ Ihr könnt nicht regelmäßig an einem Kurs teilnehmen, wollt aber dennoch Yoga 
 {:#anfaengeryogaworkshop}
 ## Yoga für Anfänger
 Du hast noch nie Yoga gemacht oder nur einmal irgendwo ausprobiert? Dann ist dieser Workshop genau richtig für Dich. Nach einer kurzen Einführung in Yoga probieren wir unsere ersten Yogaübungen aus und spüren nach, wie diese integrale Praxis aus Muskelkräftigung, Dehnung und Entspannung wirkt. Nach dem Workshop kannst Du besser einschätzen, ob Yoga etwas für Dich ist.  
-**Freitag, 2.2. und 16.2. 19:30 - 21:30 Uhr. Anmeldung per Mail: [{{site.data.authors.agobrecht.email}}][1]**
+**Freitag, 16.2., 23.2. 19:30 - 21:30 Uhr. Anmeldung per Mail: [{{site.data.authors.agobrecht.email}}][1]**
 
 
 {:#rueckenyogaworkshop}
 ## Rückenyoga
 In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
-**Termin für Anfänger: Freitag, 2.2. und 16.2. 19:30 - 21:30 Uhr. Anmeldung per Mail: [{{site.data.authors.agobrecht.email}}][1]**
+**Termin für Anfänger: Freitag, 16.2., 23.2. 19:30 - 21:30 Uhr. Anmeldung per Mail: [{{site.data.authors.agobrecht.email}}][1]**
 
 
 {:#yinyogaworkshop}
 ## Yin Yoga / Faszienyoga
 Mit Yin Yoga dehnen wir den ganzen Körper. Durch das längere Halten der Asanas (Übungen) ist es möglich, in eine Art Körper-Meditation zu kommen. Da Yin Yoga sehr sanft und regenerierend ist, kann man hier ganz entspannt drei Stunden am Stücken praktizieren. Ideal zum Entschleunigen und Loslassen nach einer stressigen Woche. Der Workshop ist für Anfänger und Fortgeschrittene gleichermaßen geeignet.   
-**Sonntag, 4.2. und 18.2. 19:00 - 21:00 Uhr. Anmeldung per Mail: [{{site.data.authors.agobrecht.email}}][1]**
+**Sonntag, 18.2., 25.2. 19:00 - 21:00 Uhr. Anmeldung per Mail: [{{site.data.authors.agobrecht.email}}][1]**
 
 ## Konditionen
 Die Preise liegen bei 20 € für 120 Minuten Workshop und 30 € für 180 Minuten. Alle Workshops finden in Kleingruppen (bis sieben Teilnehmer) ab vier angemeldeten Teilnehmern statt.  **Anfragen bitte per Mail an: [{{site.data.authors.agobrecht.email}}][1]**
