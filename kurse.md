@@ -7,8 +7,8 @@ sidebar: 3
 ![Die Krähe](/assets/images/kraehe.jpg){:.w70}
 
 {:#anfaengeryoga}
-## Yoga für Anfänger - freitags 19:30-21:00 Uhr oder mittwochs 20:00-21:30 Uhr
-Lerne Yoga von Grund auf und probiere aus, wie diese integrale Praxis aus Muskelkräftigung, Dehnung und Entspannung bei Dir wirkt. Wir erlernen nach und nach die wichtigsten Yogaübungen und achten hier besonders auf ihre korrekte Ausführung und Anpassung an Deine Bedürfnisse.  
+## Yoga für Anfänger - sonntags 16:30-18:30 Uhr oder mittwochs 20:00-21:30 Uhr
+Lerne Hatha Yoga von Grund auf und probiere aus, wie diese integrale Praxis aus Muskelkräftigung, Dehnung und Entspannung bei Dir wirkt. Wir erlernen nach und nach die wichtigsten Yogaübungen und achten hier besonders auf ihre korrekte Ausführung und Anpassung an Deine Bedürfnisse.  
 
 {:#rueckenyoga}
 ## Rückenyoga - freitags 19:30-21:00 Uhr
