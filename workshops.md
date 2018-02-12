@@ -17,7 +17,7 @@ Du hast noch nie Yoga gemacht oder nur einmal irgendwo ausprobiert? Dann ist die
 {:#rueckenyogaworkshop}
 ## Rückenyoga
 In diesem Workshop kräftigen und dehnen wir unsere Rücken- und Bauchmuskeln, tun etwas für den Schulter-Nacken-Bereich und auch die Hüften, die Beine und den Po. Auf Wunsch gibt es Tipps für rückengerechtes Verhalten im Alltag und Übungsvorschläge für zu Hause. Der Workshop richtet sich an alle, die präventiv etwas tun möchten oder schon länger unter Rückenbeschwerden leiden. Er ist für Anfänger und Fortgeschrittene geeignet.  
-**Freitag, 2.3. 19:30 - 21:30 Uhr. Anmeldung per Mail: [{{site.data.authors.agobrecht.email}}][1]**
+**Freitag, 16.2. & 2.3. 19:30 - 21:30 Uhr. Anmeldung per Mail: [{{site.data.authors.agobrecht.email}}][1]**
 
 
 {:#yinyogaworkshop}
