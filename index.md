@@ -10,7 +10,6 @@ sidebar-title: Startseite
 - [Yin Yoga / Faszienyoga:][7] <br/> Sonntag, 4.3. 19:00 bis 21:00 Uhr
 
 
-
 ## Das Wo und Wie
 - [Veranstaltungsort der Kurse, Preise][8]
 - [Personal Training / Einzelstunden][9] jederzeit und örtlich flexibel
