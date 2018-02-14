@@ -11,8 +11,8 @@ sidebar-title: Startseite
 
 
 ## Das Wo und Wie
-- [Veranstaltungsort der Kurse, Preise][8]
-- [Personal Training / Einzelstunden][9] jederzeit und örtlich flexibel
+- [Veranstaltungsort der Kurse, Preise][9]
+- [Personal Training / Einzelstunden][8] jederzeit und örtlich flexibel
 
 
 ## Neueste Blog Beiträge
@@ -32,5 +32,5 @@ sidebar-title: Startseite
 [5]: /workshops#anfaengeryogaworkshop
 [6]: /workshops#rueckenyogaworkshop
 [7]: /workshops#yinyogaworkshop
-[8]: /kurse#personaltraining
-[9]: /kurse#veranstaltungsort
+[8]: /workshops#personaltraining
+[9]: /workshops#veranstaltungsort
