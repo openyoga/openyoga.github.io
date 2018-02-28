@@ -4,6 +4,8 @@ subtitle: Und für wen nicht?
 section: artikel
 tags: [yoga, hathayoga, zielgruppen]
 lang: de
+redirect: https://yoga-muenchen-bogenhausen.de/artikel/2018/yoga-zielgruppen/
+layout: redirect
 ---
 
 ![Matte und Meditationskissen](/assets/images/matte-meditationskissen.jpg)

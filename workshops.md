@@ -2,6 +2,8 @@
 title: Yoga Workshops in München Bogenhausen
 sidebar-title: Workshops
 sidebar: 2
+redirect: https://yoga-muenchen-bogenhausen.de/workshops/
+layout: redirect
 ---
 
 ![Die Krähe](/assets/images/sprinter.jpg){:.w70}

@@ -5,6 +5,8 @@ section: artikel
 tags: [yoga, hathayoga, zielgruppen, wirkung]
 lang: de
 last_modified_at: 2017-12-31
+redirect: https://yoga-muenchen-bogenhausen.de/artikel/2017/was-ist-yoga/
+layout: redirect
 ---
 
 ![Die Taube](/assets/images/taube.jpg)

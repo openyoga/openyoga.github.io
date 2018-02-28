@@ -2,6 +2,8 @@
 title: Yoga Kurse in München Bogenhausen
 sidebar-title: Kurse
 sidebar: 3
+redirect: https://yoga-muenchen-bogenhausen.de/kurse/
+layout: redirect
 ---
 
 ![Die Krähe](/assets/images/kraehe.jpg){:.w70}

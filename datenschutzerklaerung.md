@@ -1,6 +1,8 @@
 ---
 title: Datenschutzerklärung
 sidebar-legal: 2
+redirect: https://yoga-muenchen-bogenhausen.de/datenschutz/
+layout: redirect
 ---
 
 Wir verwenden kein User Tracking. Diese Website wird auf GitHub gehostet. Auf deren Web Server Log Files haben wir keinen Zugriff.  

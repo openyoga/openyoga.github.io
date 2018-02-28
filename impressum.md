@@ -2,6 +2,8 @@
 title: Impressum nach dem Telemediengesetz (TMG)
 sidebar-title: Impressum
 sidebar-legal: 1
+redirect: https://yoga-muenchen-bogenhausen.de/impressum/
+layout: redirect
 ---
 
 **openyoga.github.io wird betrieben von:**

@@ -4,6 +4,8 @@ subtitle: Ich und Yoga?
 section: artikel
 tags: [yoga, hathayoga, wirkung, gesundheit]
 lang: de
+redirect: https://yoga-muenchen-bogenhausen.de/artikel/2017/yoga-wirkt/
+layout: redirect
 ---
 
 ![Der Taenzer](/assets/images/taenzer.jpg)

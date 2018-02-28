@@ -4,6 +4,8 @@ subtitle: Nur ein weiterer Trend?
 section: artikel
 tags: [yoga, yinyoga, faszienyoga, faszientraining, bindegewebe, wirkung]
 lang: de
+redirect: https://yoga-muenchen-bogenhausen.de/artikel/2018/was-ist-yin-faszien-yoga/
+layout: redirect
 ---
 
 ![Der Schmetterling](/assets/images/schmetterling.jpg)

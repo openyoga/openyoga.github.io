@@ -4,6 +4,8 @@ subtitle: Tabouleh mal ganz anders
 section: rezepte
 tags: [rezept, salat]
 lang: de
+redirect: https://yoga-muenchen-bogenhausen.de/rezepte/tabouleh-mit-quinoa/
+layout: redirect
 ---
 Wir haben mit dem klassischen Tabouleh herumexperimentiert und ihn mal mit Quinoa statt mit Couscous ausprobiert. Um den Schlemmerfaktor zu erhöhen und aus dem Salat einen Sattmacher zu zaubern, haben wir noch Schafskäse hineingebracht.
 

@@ -2,6 +2,8 @@
 title: Artikel-Archiv
 sidebar: 4
 sidebar-title: Artikel
+redirect: https://yoga-muenchen-bogenhausen.de/artikel/
+layout: redirect
 ---
 
 ![Das Rad](/assets/images/rad.jpg)

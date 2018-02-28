@@ -2,6 +2,8 @@
 title: Allgemeine Geschäftsbedingungen Open Yoga MUC
 sidebar-title: AGB
 sidebar-legal: 3
+redirect: https://yoga-muenchen-bogenhausen.de/agb/
+layout: redirect
 ---
 
 ## 1. Allgemein

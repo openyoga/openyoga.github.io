@@ -5,6 +5,8 @@ section: artikel
 tags: [yoga, ernaehrung, vegetarier, veganer, gunas, gesundheit]
 lang: de
 last_modified_at: 2017-12-10
+redirect: https://yoga-muenchen-bogenhausen.de/artikel/2017/yoga-und-ernaehrung/
+layout: redirect
 ---
 
 ![Das DREIECK](/assets/images/dreieck.jpg)

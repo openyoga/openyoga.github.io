@@ -2,6 +2,8 @@
 title:  Yoga in München Bogenhausen
 sidebar: 0
 sidebar-title: Startseite
+redirect: https://yoga-muenchen-bogenhausen.de
+layout: redirect
 ---
 
 ## Workshops

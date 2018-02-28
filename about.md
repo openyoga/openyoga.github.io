@@ -1,6 +1,8 @@
 ---
 title: About
 sidebar: 5
+redirect: https://yoga-muenchen-bogenhausen.de/about/
+layout: redirect
 ---
 
 ## Über Open Yoga MUC

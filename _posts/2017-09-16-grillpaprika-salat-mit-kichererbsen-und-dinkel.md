@@ -4,6 +4,8 @@ subtitle: Ottmars Lieblingsrezept
 section: rezepte
 tags: [rezept, salat]
 lang: de
+redirect: https://yoga-muenchen-bogenhausen.de/rezepte/grillpaprika-salat-mit-kichererbsen-und-dinkel/
+layout: redirect
 ---
 Dieses Rezept ist ein tolles Beispiel dafür, dass auch ein Salat ohne Fleisch satt und glücklich machen kann. Man kann ihn gleich essen, dann ist er leicht warm oder auch eine Weile durchziehen lassen.
 
